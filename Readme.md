@@ -5,8 +5,7 @@ With python 3.9.2 or later.
 
 # Deploy
 
-Save the code into your system as keylogger.py
-Open terminal and typ keylogger.py 
+Save the code into your system as keylogger.py Open terminal and type keylogger.py 
 
 
 * Booom🔥😂🤣
